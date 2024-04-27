@@ -22,7 +22,7 @@ export default function About() {
         <Sectionheading  >About me</Sectionheading>
         
 <p className=''>
-I am a software engineer.{" "}Completed my bachlor in  {" "}
+I am a software engineer.{" "}Completed my bachelor in  {" "}
         <span className="font-medium">Information Techmology{" "}</span>, I decided to make my
         job in programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
