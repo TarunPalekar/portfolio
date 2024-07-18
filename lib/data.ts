@@ -58,7 +58,7 @@ export const ed = [
 
 export const projectsData = [
   {
-    title: "Spotify Clone",
+    title: "Musify",
     description:
       "It is an app used to listing songs and podcast ",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
@@ -72,7 +72,7 @@ export const projectsData = [
     imageUrl:'/rest.jpg'
   },
   {
-    title: "Gup Shup",
+    title: "Chit Chat",
     description:
       "A public chat app made using nextjs to easily chat or video call a friend or family",
     tags: ["React", "Next.js", "mongo Db", "Tailwind", "Framer", "socket.io"],
